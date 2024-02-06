@@ -1,0 +1,11 @@
+{
+  "name": "vrf-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "author": "SAM CLI",
+  "license": "MIT",
+  "dependencies": {
+    "sodium-native": "github:appliedblockchain/sodium-native"
+  }
+}
